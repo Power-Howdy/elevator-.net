@@ -1,0 +1,11 @@
+D:\Web\elevator\ControlService\bin\Debug\net8.0\ControlService.deps.json
+D:\Web\elevator\ControlService\bin\Debug\net8.0\ControlService.dll
+D:\Web\elevator\ControlService\bin\Debug\net8.0\ControlService.pdb
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.AssemblyInfoInputs.cache
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.AssemblyInfo.cs
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.csproj.CoreCompileInputs.cache
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.dll
+D:\Web\elevator\ControlService\obj\Debug\net8.0\refint\ControlService.dll
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ControlService.pdb
+D:\Web\elevator\ControlService\obj\Debug\net8.0\ref\ControlService.dll
